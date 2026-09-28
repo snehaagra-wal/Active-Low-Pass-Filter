@@ -1,4 +1,6 @@
 # Active Low-Pass Filter Design (KiCad)
+<img width="963" height="1280" alt="WhatsApp Image 2026-09-28 at 17 52 28" src="https://github.com/user-attachments/assets/f62edaf7-33bb-4060-a530-f34d9dafef32" />
+
 
 ## Overview
 This project features a complete hardware design for an **Active Low-Pass Filter** developed using **KiCad**. The project includes the complete schematic capture, PCB layout, 3D visualization, and manufacturing-ready Gerber files. 
